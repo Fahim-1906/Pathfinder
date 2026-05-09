@@ -1,0 +1,429 @@
+[
+  {
+    "career": "Software Engineer",
+    "stream": "PCM",
+    "skills": "Programming, Data Structures, Problem Solving",
+    "degree": "BTech Computer Science",
+    "exams": "JEE/CET",
+    "salary": "5-20 LPA",
+    "description": "Develop software applications and systems",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Data Scientist",
+    "stream": "PCM",
+    "skills": "Python, Machine Learning, Statistics",
+    "degree": "BSc/BTech Data Science",
+    "exams": "None",
+    "salary": "6-20 LPA",
+    "description": "Analyze data and build predictive models",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Mechanical Engineer",
+    "stream": "PCM",
+    "skills": "Design, Mechanics, CAD",
+    "degree": "BTech Mechanical",
+    "exams": "JEE/CET",
+    "salary": "4-12 LPA",
+    "description": "Design and manufacture machines",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Civil Engineer",
+    "stream": "PCM",
+    "skills": "Construction, Planning, AutoCAD",
+    "degree": "BTech Civil",
+    "exams": "JEE/CET",
+    "salary": "4-10 LPA",
+    "description": "Design and supervise infrastructure projects",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Electrical Engineer",
+    "stream": "PCM",
+    "skills": "Circuits, Electronics, Problem Solving",
+    "degree": "BTech Electrical",
+    "exams": "JEE/CET",
+    "salary": "4-12 LPA",
+    "description": "Work with electrical systems and power",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Astronomer",
+    "stream": "PCM",
+    "skills": "Physics, Research, Data Analysis",
+    "degree": "BSc/MSc Physics",
+    "exams": "None",
+    "salary": "5-15 LPA",
+    "description": "Study stars, planets, and space",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Pilot",
+    "stream": "PCM",
+    "skills": "Navigation, Focus, Communication",
+    "degree": "Commercial Pilot License",
+    "exams": "DGCA Exams",
+    "salary": "10-40 LPA",
+    "description": "Operate aircraft and ensure passenger safety",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Architect",
+    "stream": "PCM",
+    "skills": "Design, Creativity, AutoCAD",
+    "degree": "BArch",
+    "exams": "NATA",
+    "salary": "5-15 LPA",
+    "description": "Design buildings and structures",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Robotics Engineer",
+    "stream": "PCM",
+    "skills": "Programming, AI, Electronics",
+    "degree": "BTech Robotics",
+    "exams": "JEE",
+    "salary": "6-18 LPA",
+    "description": "Design and build robots",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "stream": "PCM",
+    "skills": "Networking, Security, Ethical Hacking",
+    "degree": "BTech/Certifications",
+    "exams": "None",
+    "salary": "6-15 LPA",
+    "description": "Protect systems from cyber threats",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Doctor (MBBS)",
+    "stream": "PCB",
+    "skills": "Biology, Diagnosis, Communication",
+    "degree": "MBBS",
+    "exams": "NEET",
+    "salary": "8-25 LPA",
+    "description": "Treat patients and diagnose diseases",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Dentist",
+    "stream": "PCB",
+    "skills": "Dental Care, Precision",
+    "degree": "BDS",
+    "exams": "NEET",
+    "salary": "6-15 LPA",
+    "description": "Treat dental and oral issues",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Pharmacist",
+    "stream": "PCB",
+    "skills": "Chemistry, Medicine Knowledge",
+    "degree": "BPharma",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Prepare and dispense medicines",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Nurse",
+    "stream": "PCB",
+    "skills": "Patient Care, Communication",
+    "degree": "BSc Nursing",
+    "exams": "None",
+    "salary": "3-8 LPA",
+    "description": "Assist doctors and care for patients",
+    "keywords": [
+      "jobs after 12th science",
+      "best careers options"
+    ]
+  },
+  {
+    "career": "Biotechnologist",
+    "stream": "PCB",
+    "skills": "Lab Skills, Research",
+    "degree": "BSc Biotechnology",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Work in biological research and labs",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Microbiologist",
+    "stream": "PCB",
+    "skills": "Lab Analysis, Research",
+    "degree": "BSc Microbiology",
+    "exams": "None",
+    "salary": "4-9 LPA",
+    "description": "Study microorganisms",
+    "keywords": [
+      "jobs after 12th science",
+      "best careers options"
+    ]
+  },
+  {
+    "career": "Geneticist",
+    "stream": "PCB",
+    "skills": "Genetics, Research",
+    "degree": "BSc Genetics",
+    "exams": "None",
+    "salary": "5-12 LPA",
+    "description": "Study genes and heredity",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Veterinary Doctor",
+    "stream": "PCB",
+    "skills": "Animal Care, Diagnosis",
+    "degree": "BVSc",
+    "exams": "NEET",
+    "salary": "5-12 LPA",
+    "description": "Treat animals and pets",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Forensic Scientist",
+    "stream": "PCB",
+    "skills": "Investigation, Lab Skills",
+    "degree": "BSc Forensic Science",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Analyze crime evidence",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Nutritionist",
+    "stream": "PCB",
+    "skills": "Diet Planning, Health Knowledge",
+    "degree": "BSc Nutrition",
+    "exams": "None",
+    "salary": "3-8 LPA",
+    "description": "Advise on diet and nutrition",
+    "keywords": [
+      "jobs after 12th science",
+      "best careers options"
+    ]
+  },
+  {
+    "career": "Bioinformatician",
+    "stream": "Interdisciplinary",
+    "skills": "Biology, Programming, Data Analysis",
+    "degree": "BSc Bioinformatics",
+    "exams": "None",
+    "salary": "5-15 LPA",
+    "description": "Analyze biological data using computers",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Environmental Scientist",
+    "stream": "Interdisciplinary",
+    "skills": "Research, Analysis, Field Work",
+    "degree": "BSc Environmental Science",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Study and protect the environment",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "AI Engineer",
+    "stream": "Interdisciplinary",
+    "skills": "Machine Learning, Python, Math",
+    "degree": "BTech AI",
+    "exams": "JEE/CET",
+    "salary": "8-25 LPA",
+    "description": "Develop intelligent systems",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Biomedical Engineer",
+    "stream": "Interdisciplinary",
+    "skills": "Biology, Engineering, Design",
+    "degree": "BTech Biomedical",
+    "exams": "JEE/CET",
+    "salary": "5-12 LPA",
+    "description": "Design medical equipment",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Clinical Researcher",
+    "stream": "Interdisciplinary",
+    "skills": "Research, Data Analysis",
+    "degree": "BSc Life Sciences",
+    "exams": "None",
+    "salary": "4-12 LPA",
+    "description": "Conduct medical research trials",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Data Analyst",
+    "stream": "Interdisciplinary",
+    "skills": "Excel, SQL, Data Visualization",
+    "degree": "BSc/Any Degree",
+    "exams": "None",
+    "salary": "4-12 LPA",
+    "description": "Analyze and interpret data",
+    "keywords": [
+      "computer career",
+      "best careers options",
+      "tech jobs",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Food Technologist",
+    "stream": "Interdisciplinary",
+    "skills": "Food Science, Quality Control",
+    "degree": "BTech Food Technology",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Develop and improve food products",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Geologist",
+    "stream": "Interdisciplinary",
+    "skills": "Earth Science, Field Work",
+    "degree": "BSc Geology",
+    "exams": "None",
+    "salary": "5-12 LPA",
+    "description": "Study earth structure and minerals",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "UX/UI Designer",
+    "stream": "Interdisciplinary",
+    "skills": "Design, Creativity, User Research",
+    "degree": "Any Degree + Design Courses",
+    "exams": "None",
+    "salary": "5-15 LPA",
+    "description": "Design user-friendly digital interfaces",
+    "keywords": [
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Science Communicator",
+    "stream": "Interdisciplinary",
+    "skills": "Writing, Communication, Science Knowledge",
+    "degree": "BSc + Journalism",
+    "exams": "None",
+    "salary": "3-10 LPA",
+    "description": "Explain science to the public",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pathfinder AI - Career Advisor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Pathfinder AI</h1>
+            <p class="subtitle">Discover your ideal career path with artificial intelligence</p>
+        </header>
+
+        <div class="search-box">
+            <input type="text" id="query" placeholder="E.g., Biology careers..."
+                onkeydown="if(event.key === 'Enter') sendQuery()">
+            <button onclick="sendQuery()" id="searchBtn">Discover</button>
+        </div>
+
+        <div id="loading" class="loading">Analyzing career paths...</div>
+        <div id="results" class="results-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
