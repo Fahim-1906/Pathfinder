@@ -2,7 +2,8 @@
 
 from pathlib import Path
 
-from flask import Flask, request, jsonify, send_from_directory
+# pyrefly: ignore [missing-import]
+from flask import Flask, request, jsonify,send_from_directory
 from flask_cors import CORS
 import json
 from sklearn.feature_extraction.text import TfidfVectorizer

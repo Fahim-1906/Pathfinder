@@ -28,7 +28,8 @@
       "best careers options",
       "tech jobs",
       "jobs after 12th science",
-      "high_salary"
+      "high_salary",
+      "coding"
     ]
   },
   {
@@ -424,6 +425,420 @@
       "best careers options",
       "jobs after 12th science",
       "high_salary"
+    ]
+  },
+  {
+    "career": "Pharmacologist",
+    "stream": "PCB",
+    "skills": "Chemistry, Research, Medicine",
+    "degree": "BSc/MSc Pharmacology",
+    "exams": "None",
+    "salary": "4-12 LPA",
+    "description": "Study effects of drugs on biological systems",
+    "keywords": [
+      "biology without NEET",
+      "best careers options",
+      "jobs after 12th science",
+      "medical research"
+    ]
+  },
+  {
+    "career": "Marine Biologist",
+    "stream": "PCB",
+    "skills": "Marine life study, Research, Scuba Diving",
+    "degree": "BSc Marine Biology",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Study marine organisms and ecosystems",
+    "keywords": [
+      "biology without NEET",
+      "best careers options",
+      "jobs after 12th science",
+      "ocean study"
+    ]
+  },
+  {
+    "career": "Agronomist",
+    "stream": "PCB",
+    "skills": "Agriculture, Soil Science, Botany",
+    "degree": "BSc Agriculture",
+    "exams": "ICAR AIEEA",
+    "salary": "3-9 LPA",
+    "description": "Improve crop production and soil health",
+    "keywords": [
+      "biology without NEET",
+      "best careers options",
+      "jobs after 12th science",
+      "agriculture"
+    ]
+  },
+  {
+    "career": "Aerospace Engineer",
+    "stream": "PCM",
+    "skills": "Aerodynamics, Propulsion, CAD",
+    "degree": "BTech Aerospace",
+    "exams": "JEE",
+    "salary": "6-20 LPA",
+    "description": "Design aircraft and spacecraft",
+    "keywords": [
+      "tech jobs",
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Chemical Engineer",
+    "stream": "PCM",
+    "skills": "Chemistry, Process Engineering, Math",
+    "degree": "BTech Chemical",
+    "exams": "JEE/CET",
+    "salary": "5-15 LPA",
+    "description": "Design equipment for chemical manufacturing",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Physiotherapist",
+    "stream": "PCB",
+    "skills": "Anatomy, Patient Care, Physical Therapy",
+    "degree": "BPT",
+    "exams": "CET",
+    "salary": "3-8 LPA",
+    "description": "Help patients with physical movement and pain management",
+    "keywords": [
+      "biology without NEET",
+      "best careers options",
+      "medical careers"
+    ]
+  },
+  {
+    "career": "Psychiatrist",
+    "stream": "PCB",
+    "skills": "Mental Health, Medicine, Empathy",
+    "degree": "MBBS + MD Psychiatry",
+    "exams": "NEET",
+    "salary": "8-20 LPA",
+    "description": "Diagnose and treat mental health disorders",
+    "keywords": [
+      "best careers options",
+      "high_salary",
+      "medical careers"
+    ]
+  },
+  {
+    "career": "Ethical Hacker",
+    "stream": "PCM",
+    "skills": "Cybersecurity, Penetration Testing, Networking",
+    "degree": "BTech/Certifications",
+    "exams": "None",
+    "salary": "6-15 LPA",
+    "description": "Test systems for security vulnerabilities",
+    "keywords": [
+      "computer career",
+      "tech jobs",
+      "best careers options",
+      "high_salary"
+    ]
+  },
+  {
+    "career": "Game Developer",
+    "stream": "PCM",
+    "skills": "C++, C#, Unity, Unreal Engine",
+    "degree": "BTech/BSc Computer Science",
+    "exams": "None",
+    "salary": "5-18 LPA",
+    "description": "Design and create video games",
+    "keywords": [
+      "computer career",
+      "tech jobs",
+      "coding",
+      "best careers options"
+    ]
+  },
+  {
+    "career": "Meteorologist",
+    "stream": "PCM",
+    "skills": "Data Analysis, Earth Science",
+    "degree": "BSc Meteorology",
+    "exams": "None",
+    "salary": "4-10 LPA",
+    "description": "Study weather and climate patterns",
+    "keywords": [
+      "best careers options",
+      "jobs after 12th science"
+    ]
+  },
+  {
+    "career": "Blockchain Developer",
+    "stream": "PCM",
+    "skills": "Cryptography, Smart Contracts, C++",
+    "degree": "BTech Computer Science",
+    "exams": "None",
+    "salary": "8-25 LPA",
+    "description": "Build decentralized applications and blockchain architecture",
+    "keywords": [
+      "tech jobs",
+      "high_salary",
+      "computer career",
+      "coding"
+    ]
+  },
+  {
+    "career": "Cloud Architect",
+    "stream": "PCM",
+    "skills": "AWS, Azure, Networking",
+    "degree": "BTech IT/CS",
+    "exams": "None",
+    "salary": "10-30 LPA",
+    "description": "Design and manage cloud computing infrastructure",
+    "keywords": [
+      "tech jobs",
+      "high_salary",
+      "computer career"
+    ]
+  },
+  {
+    "career": "DevOps Engineer",
+    "stream": "PCM",
+    "skills": "Linux, CI/CD, Automation",
+    "degree": "BTech CS/IT",
+    "exams": "None",
+    "salary": "7-20 LPA",
+    "description": "Bridge the gap between software development and IT operations",
+    "keywords": [
+      "tech jobs",
+      "high_salary",
+      "computer career",
+      "coding"
+    ]
+  },
+  {
+    "career": "Hardware Engineer",
+    "stream": "PCM",
+    "skills": "Electronics, Circuit Design, Testing",
+    "degree": "BTech Electronics",
+    "exams": "JEE/CET",
+    "salary": "5-15 LPA",
+    "description": "Design and test computer hardware components",
+    "keywords": [
+      "tech jobs",
+      "jobs after 12th science"
+    ]
+  },
+  {
+    "career": "Petroleum Engineer",
+    "stream": "PCM",
+    "skills": "Geology, Drilling, Thermodynamics",
+    "degree": "BTech Petroleum Engineering",
+    "exams": "JEE/CET",
+    "salary": "8-25 LPA",
+    "description": "Extract oil and gas from beneath the earth",
+    "keywords": [
+      "high_salary",
+      "best careers options",
+      "engineering"
+    ]
+  },
+  {
+    "career": "Nuclear Engineer",
+    "stream": "PCM",
+    "skills": "Physics, Mathematics, Safety Protocols",
+    "degree": "BTech Nuclear Engineering",
+    "exams": "JEE Advanced",
+    "salary": "7-20 LPA",
+    "description": "Research and develop processes used to derive benefits from nuclear energy",
+    "keywords": [
+      "best careers options",
+      "engineering"
+    ]
+  },
+  {
+    "career": "Agricultural Engineer",
+    "stream": "PCM/PCB",
+    "skills": "Farming Tech, Equipment Design",
+    "degree": "BTech Agricultural Engineering",
+    "exams": "ICAR AIEEA",
+    "salary": "4-10 LPA",
+    "description": "Design agricultural machinery and improve farming processes",
+    "keywords": [
+      "agriculture",
+      "engineering"
+    ]
+  },
+  {
+    "career": "Nanotechnologist",
+    "stream": "PCM/PCB",
+    "skills": "Physics, Chemistry, Materials Science",
+    "degree": "BTech/BSc Nanotechnology",
+    "exams": "None",
+    "salary": "6-18 LPA",
+    "description": "Manipulate matter on an atomic and molecular scale",
+    "keywords": [
+      "tech jobs",
+      "jobs after 12th science"
+    ]
+  },
+  {
+    "career": "Toxicologist",
+    "stream": "PCB",
+    "skills": "Chemistry, Biology, Lab Analysis",
+    "degree": "BSc Toxicology",
+    "exams": "None",
+    "salary": "4-12 LPA",
+    "description": "Study the adverse effects of chemicals on living organisms",
+    "keywords": [
+      "biology without NEET",
+      "medical research"
+    ]
+  },
+  {
+    "career": "Epidemiologist",
+    "stream": "PCB",
+    "skills": "Public Health, Data Analysis, Disease Study",
+    "degree": "BSc/Master in Public Health",
+    "exams": "None",
+    "salary": "5-15 LPA",
+    "description": "Investigate the causes and spread of diseases",
+    "keywords": [
+      "biology without NEET",
+      "medical research"
+    ]
+  },
+  {
+    "career": "Optometrist",
+    "stream": "PCB",
+    "skills": "Eye Care, Precision, Patient Communication",
+    "degree": "Bachelor of Optometry",
+    "exams": "CET",
+    "salary": "3-9 LPA",
+    "description": "Examine eyes for vision defects and prescribe corrective lenses",
+    "keywords": [
+      "biology without NEET",
+      "medical careers"
+    ]
+  },
+  {
+    "career": "Audiologist",
+    "stream": "PCB",
+    "skills": "Hearing Care, Diagnostic Testing",
+    "degree": "BSc Audiology",
+    "exams": "CET",
+    "salary": "4-10 LPA",
+    "description": "Diagnose and treat hearing and balance disorders",
+    "keywords": [
+      "biology without NEET",
+      "medical careers"
+    ]
+  },
+  {
+    "career": "Cardiovascular Technologist",
+    "stream": "PCB",
+    "skills": "Medical Imaging, Patient Care",
+    "degree": "BSc Cardiovascular Technology",
+    "exams": "None",
+    "salary": "4-12 LPA",
+    "description": "Assist physicians in diagnosing heart and blood vessel conditions",
+    "keywords": [
+      "biology without NEET",
+      "medical careers"
+    ]
+  },
+  {
+    "career": "Radiologist",
+    "stream": "PCB",
+    "skills": "Medical Imaging, X-Rays, MRI",
+    "degree": "MBBS + MD Radiology",
+    "exams": "NEET",
+    "salary": "10-30 LPA",
+    "description": "Diagnose diseases using medical imaging techniques",
+    "keywords": [
+      "high_salary",
+      "medical careers",
+      "best careers options"
+    ]
+  },
+  {
+    "career": "Zoologist",
+    "stream": "PCB",
+    "skills": "Animal Study, Research, Field Work",
+    "degree": "BSc Zoology",
+    "exams": "None",
+    "salary": "3-8 LPA",
+    "description": "Study animal behavior, physiology, and classification",
+    "keywords": [
+      "biology without NEET",
+      "animal study"
+    ]
+  },
+  {
+    "career": "Botanist",
+    "stream": "PCB",
+    "skills": "Plant Study, Ecology, Research",
+    "degree": "BSc Botany",
+    "exams": "None",
+    "salary": "3-8 LPA",
+    "description": "Study plant life and ecology",
+    "keywords": [
+      "biology without NEET",
+      "plant study"
+    ]
+  },
+  {
+    "career": "Oceanographer",
+    "stream": "Interdisciplinary",
+    "skills": "Marine Study, Geology, Research",
+    "degree": "BSc Oceanography",
+    "exams": "None",
+    "salary": "5-12 LPA",
+    "description": "Study the physical and biological properties of the ocean",
+    "keywords": [
+      "jobs after 12th science",
+      "ocean study"
+    ]
+  },
+  {
+    "career": "Actuary",
+    "stream": "PCM",
+    "skills": "Mathematics, Statistics, Risk Assessment",
+    "degree": "BSc Mathematics/Statistics",
+    "exams": "ACET",
+    "salary": "8-25 LPA",
+    "description": "Analyze financial risk using mathematics and statistics",
+    "keywords": [
+      "high_salary",
+      "math jobs"
+    ]
+  },
+  {
+    "career": "Financial Analyst",
+    "stream": "Interdisciplinary",
+    "skills": "Data Analysis, Economics, Excel",
+    "degree": "BBA/BSc Finance",
+    "exams": "None",
+    "salary": "5-15 LPA",
+    "description": "Guide businesses and individuals in investment decisions",
+    "keywords": [
+      "high_salary",
+      "business",
+      "analysis"
+    ]
+  },
+  {
+    "career": "Product Manager",
+    "stream": "Interdisciplinary",
+    "skills": "Leadership, Market Research, Strategy",
+    "degree": "BTech/BBA + MBA",
+    "exams": "CAT",
+    "salary": "10-30 LPA",
+    "description": "Oversee the development and success of a product",
+    "keywords": [
+      "high_salary",
+      "business",
+      "tech jobs"
     ]
   }
 ]
